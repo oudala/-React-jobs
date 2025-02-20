@@ -7,4 +7,5 @@ const JobsPage = () => {
     </section>
   );
 };
+
 export default JobsPage;
